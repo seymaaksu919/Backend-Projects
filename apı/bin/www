@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/**NPM START yapıldığı zaman burası çalı */
 
 /**
  * Module dependencies.
