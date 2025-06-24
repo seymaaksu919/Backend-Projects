@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>Node.js Öğrenme Serüvenim</title>
+  
 </head>
 <body>
 
