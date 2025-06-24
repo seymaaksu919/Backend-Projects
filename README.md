@@ -8,9 +8,7 @@
 
   <h1>🚀 Node.js Öğrenme Serüvenim</h1>
 
-  <p>Bu repoda, YouTube üzerinden takip ederek öğrendiğim <strong>Node.js</strong> dersleri boyunca yaptığım örnek uygulamaları ve projeleri paylaşıyorum.</p>
 
-  <h2>📚 İçerik</h2>
   <ul>
     <li><strong>Temel Node.js</strong> konuları (modüller, dosya sistemi, event emitter vs.)</li>
     <li><strong>Express.js</strong> ile API geliştirme</li>
