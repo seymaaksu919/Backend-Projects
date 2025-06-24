@@ -1,3 +1,6 @@
+if(process.env.NODE.ENV != "production") //Productionsa kullanma orada başka şekilde set edilecektir.
+require('dotenv').config() //Process.env atarız çevre değişkenlerini aslında
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
@@ -8,6 +11,8 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
 var app = express();
+//console.log(process.env); //Çevre değişkenlerini tanımlamak için
+
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
